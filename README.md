@@ -1,6 +1,6 @@
 # Description
 
-Finding the best point in multidimentional space for a new point. <br>
+Finding the best element in multidimentional space for a new elemtnt. New element must have all properties. <br>
 Metrics which is used is K-means. <br>
 Ideally addresses in multidimentional space should be normalized. <br>
 
