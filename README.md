@@ -3,6 +3,7 @@
 Finding the best element in multidimentional space for a new elemtnt. New element must have all properties. <br>
 Metrics which is used is K-means. <br>
 Ideally addresses in multidimentional space should be normalized. <br>
+When there is new element with totally different properties like emperature, length, dencity etc., all properties are getting transformed into multidimentional space where they are comparabale and in this multidimentional space it is easy to find similar point with close properties. 
 
 ```
 # Function to normalize a list of dictionaries
